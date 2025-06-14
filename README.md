@@ -53,11 +53,7 @@ AI 기반 자격증 학습 앱은 인공지능을 활용하여 자격증 취득�
 - **10주**: 성능 최적화 및 테스트 후 출시
 
 ## 🎨 UI/UX 예상 Figma
-![image](https://github.com/user-attachments/assets/6c665d9f-9b57-4f50-80f5-55605a42c6e4)
-![image](https://github.com/user-attachments/assets/2c9c3ad9-9e63-4160-aaf6-d669b7364bf8)
-![image](https://github.com/user-attachments/assets/d2e5eca4-cf4f-44bc-9584-2cdea9123166)
-![image](https://github.com/user-attachments/assets/735b076c-eccd-4a0b-8923-00a650d9d158)
-![image](https://github.com/user-attachments/assets/6c95aa4e-d06d-4c6b-b9ca-8338c74da0df)
+![image](https://github.com/user-attachments/assets/8b287b14-8377-4bb9-8227-07544e75df5c)
 
 ```
 ## 💰 수익 모델
