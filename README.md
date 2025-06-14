@@ -55,7 +55,7 @@ AI 기반 자격증 학습 앱은 인공지능을 활용하여 자격증 취득�
 ## 🎨 UI/UX 예상 Figma
 ![image](https://github.com/user-attachments/assets/8b287b14-8377-4bb9-8227-07544e75df5c)
 
-```
+
 ## 💰 수익 모델
 
 ### Freemium 모델
